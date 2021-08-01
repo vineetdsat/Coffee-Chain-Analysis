@@ -6,9 +6,9 @@ Fact Table contains the data for every dealing, whereas the Product Table and th
 
 
 | ProductId	| Area Code |	Date |	Budget COGS |	Budget Margin |	Budget Profit |	Budget Sales |	COGS |	Inventory	Margin |	Marketing	Profit |	Sales	Total | Expenses |
-|---||---||---||---||---||---||---||---||---||---||---||---|
+|----|----|----|----|----|----|----|----|----|----|----|----|
 | ProductId |	Product Name |	Product Line |	Product Type |	Type |
-|---||---||---||---||---|
+|----|----|----|----|----|
 | Area Code |	Market Size |	Market	State |
 |----|----|----|
 
