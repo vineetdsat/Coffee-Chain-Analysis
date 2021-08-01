@@ -10,3 +10,5 @@ Fact Table contains the data for every dealing, whereas the Product Table and th
 | ProductId |	Product Name |	Product Line |	Product Type |	Type |
 
 | Area Code |	Market Size |	Market	State |
+|----|----|----|
+
