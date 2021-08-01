@@ -1,9 +1,9 @@
 # Coffee-Chain-Analysis
 
-• Combined multiple data sources in Excel
-• Analysed the profits in different states of US vs the number of shops in that state
-• Drilled down to root causes of lesser profit in some states
-• Created a dashboard and story on Tableau to visualize the insights
+<li>Combined multiple data sources in Excel</li>
+<li>Analysed the profits in different states of US vs the number of shops in that state</li>
+<li>Drilled down to root causes of lesser profit in some states</li>
+<li>Created a dashboard and story on Tableau to visualize the insights</li>
 
 ## About the Data Set - 
 The Data set contains 3 Tables - The Fact Table, The Area Table and the Product Table
