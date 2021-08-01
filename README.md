@@ -18,3 +18,7 @@ Fact Table contains the data for every dealing, whereas the Product Table and th
 | Area Code |	Market Size |	Market	State |
 |----|----|----|
 
+### Preprocessing
+The Product ID is the Key between the Fact Table and Product Table, the Area Code is the Key between the Fact Table and Area Table
+Before Starting to Visualise the Tables need to join, I have used Excel's VLOOKUP function to join the Product Table and Area Table to the Fact Table and then Loaded it to Tableau.
+
